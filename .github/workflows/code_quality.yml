@@ -5,7 +5,7 @@ on:
 
 jobs:
   lint:
-    name: Biome ✏️
+    name: Oxc ✏️
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
