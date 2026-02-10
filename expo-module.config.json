@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoMapsRoutesModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.mapsroutes.ExpoMapsRoutesModule"]
+  }
+}
