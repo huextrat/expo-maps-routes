@@ -1,0 +1,21 @@
+name: Code Quality
+
+on:
+  pull_request:
+
+jobs:
+  lint:
+    name: Biome ✏️
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup
+        uses: ./.github/actions/setup
+
+      - name: Oxlint check
+        run: yarn lint
+
+      - name: Oxfmt check
+        run: yarn format

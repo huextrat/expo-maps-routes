@@ -1,5 +1,16 @@
-// Reexport the native module. On web, it will be resolved to ExpoMapsRoutesModule.web.ts
-// and on native platforms to ExpoMapsRoutesModule.ts
-export { default } from './ExpoMapsRoutesModule';
-export { default as ExpoMapsRoutesView } from './ExpoMapsRoutesView';
-export * from  './ExpoMapsRoutes.types';
+// Route API: fetch polylines for expo-maps (AppleMaps.View / GoogleMaps.View)
+export { fetchRouteForAppleMaps, fetchRouteForGoogleMaps } from "./fetchRoute";
+export { useRouteForAppleMaps, useRouteForGoogleMaps } from "./useRoute";
+export type { UseRouteForAppleMapsResult, UseRouteForGoogleMapsResult } from "./useRoute";
+
+export type {
+  RouteRequestOptions,
+  AppleMapsRouteResult,
+  GoogleMapsRouteResult,
+} from "./types/RouteOptions";
+export type { TravelMode } from "./types/TravelMode";
+export type {
+  ComputeRoutesRequestBody,
+  GooglePolylineRoute,
+  RouteModifiers,
+} from "./types/GoogleApi";
