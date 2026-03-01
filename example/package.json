@@ -13,7 +13,7 @@
     "expo": "~54.0.33",
     "expo-maps": "~0.12.10",
     "react": "19.1.0",
-    "react-native": "0.84.0"
+    "react-native": "0.84.1"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
