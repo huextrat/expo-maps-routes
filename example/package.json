@@ -10,8 +10,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~54.0.33",
-    "expo-maps": "~0.12.10",
+    "expo": "~55.0.0",
+    "expo-maps": "~55.0.0",
     "react": "19.1.0",
     "react-native": "0.84.1"
   },
