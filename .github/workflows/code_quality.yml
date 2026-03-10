@@ -15,7 +15,7 @@ jobs:
         uses: ./.github/actions/setup
 
       - name: Oxlint check
-        run: yarn lint
+        run: npm run lint
 
       - name: Oxfmt check
-        run: yarn format
+        run: npm run format

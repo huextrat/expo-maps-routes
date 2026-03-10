@@ -60,6 +60,5 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
-  },
-  "packageManager": "yarn@4.12.0"
+  }
 }
