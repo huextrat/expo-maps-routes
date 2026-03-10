@@ -30,6 +30,10 @@
     "expo-module": "expo-module",
     "release": "semantic-release"
   },
+  "publishConfig": {
+		"access": "public",
+		"provenance": true
+	},
   "devDependencies": {
     "@commitlint/cli": "^20.4.1",
     "@commitlint/config-conventional": "^20.4.1",
