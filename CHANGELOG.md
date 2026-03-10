@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/huextrat/expo-maps-routes/compare/v1.0.3...v1.0.4) (2026-03-10)
+
+
+### Bug Fixes
+
+* use npm ([bed9c2e](https://github.com/huextrat/expo-maps-routes/commit/bed9c2e2d6e14fa07faf263beb4f3f4565236306))
+
 ## [1.0.3](https://github.com/huextrat/expo-maps-routes/compare/v1.0.2...v1.0.3) (2026-03-10)
 
 
