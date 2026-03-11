@@ -44,7 +44,7 @@
     "expo": "^55.0.0",
     "expo-maps": "^55.0.0",
     "expo-module-scripts": "^55.0.0",
-    "oxfmt": "^0.37.0",
+    "oxfmt": "^0.38.0",
     "oxlint": "^1.46.0",
     "react-native": "0.84.1",
     "semantic-release": "^25.0.3",
