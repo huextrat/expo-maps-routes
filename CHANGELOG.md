@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/huextrat/expo-maps-routes/compare/v1.0.6...v1.0.7) (2026-04-30)
+
+
+### Bug Fixes
+
+* **deps:** update expo monorepo ([#43](https://github.com/huextrat/expo-maps-routes/issues/43)) ([2008020](https://github.com/huextrat/expo-maps-routes/commit/20080202c245fd59410bfc006cea6e20a148b6f7))
+
 ## [1.0.6](https://github.com/huextrat/expo-maps-routes/compare/v1.0.5...v1.0.6) (2026-04-20)
 
 
