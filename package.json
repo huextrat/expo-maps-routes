@@ -1,6 +1,6 @@
 {
   "name": "expo-maps-routes",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Utils for expo-maps to draw a route between two coordinates",
   "keywords": [
     "ExpoMapsRoutes",

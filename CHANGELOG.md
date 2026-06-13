@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/huextrat/expo-maps-routes/compare/v1.0.8...v1.0.9) (2026-06-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-native to v0.86.0 ([#70](https://github.com/huextrat/expo-maps-routes/issues/70)) ([cc969c4](https://github.com/huextrat/expo-maps-routes/commit/cc969c4d181769d5f88e27b60c72e4662e733dc2))
+
 ## [1.0.8](https://github.com/huextrat/expo-maps-routes/compare/v1.0.7...v1.0.8) (2026-05-06)
 
 
